@@ -1158,7 +1158,7 @@ pre code {
 }
 @media (min-width: 1600px) {
   .header-inner {
-    width: 73%;
+    width: 75%;
   }
 }
 .site-brand-container {
@@ -1567,7 +1567,7 @@ pre code {
 }
 @media (min-width: 1600px) {
   .footer-inner {
-    width: 73%;
+    width: 75%;
   }
 }
 .use-motion .footer {
@@ -1952,7 +1952,8 @@ pre code {
   height: 0;
   margin-bottom: 20px;
   overflow: hidden;
-  padding-top: 75%;
+  padding-top: 30px;
+  padding-bottom: 56.25%;
   position: relative;
   width: 100%;
 }
@@ -2458,7 +2459,7 @@ ul.breadcrumb li:last-child {
 }
 @media (min-width: 1600px) {
   .main {
-    width: 73%;
+    width: 75%;
   }
 }
 @media (max-width: 991px) {
