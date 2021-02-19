@@ -1955,11 +1955,11 @@ pre code {
 .post-body .video-container object,
 .post-body .video-container embed {
   height: 100%;
+  width: 100%;
   left: 0;
   margin: 0;
   position: absolute;
   top: 0;
-  width: 100%;
 }
 .post-gallery {
   display: flex;
@@ -2106,7 +2106,7 @@ pre code {
 }
 .post-tags {
   margin-top: 40px;
-  text-align: center;
+  text-align: left;
 }
 .post-tags a {
   display: inline-block;
