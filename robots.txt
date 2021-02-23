@@ -12,3 +12,4 @@ Disallow: /vendors/
 Disallow: /fancybox/
 
 Sitemap: https://fragment-exchange.com/sitemap.xml
+Sitemap: http://ylchriszhuang.github.io/sitemap.xml
