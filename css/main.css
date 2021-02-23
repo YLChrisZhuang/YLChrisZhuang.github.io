@@ -181,7 +181,7 @@ body {
 body {
   background: var(--body-bg-color);
   color: var(--text-color);
-  font-family: Noto Sans TC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Noto Sans TC, 'Microsoft JhengHei', sans-serif;
   font-size: 1em;
   line-height: 2;
   min-height: 100%;
@@ -194,7 +194,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Noto Sans TC, Noto Sans TC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Noto Sans TC, Noto Sans TC, 'Microsoft JhengHei', sans-serif;
   font-weight: bold;
   line-height: 1.5;
   margin: 20px 0 15px;
@@ -473,7 +473,7 @@ pre {
 }
 pre,
 code {
-  font-family: Noto Serif TC, consolas, Menlo, monospace, 'PingFang SC', 'Microsoft YaHei';
+  font-family: Noto Serif TC, consolas, Menlo, monospace, 'Microsoft JhengHei';
 }
 code {
   border-radius: 3px;
@@ -1154,8 +1154,8 @@ pre code {
   padding-top: 0;
 }
 .headband {
-  background: #222;
-  height: 3px;
+  background: #696969;
+  height: 5px;
 }
 @media (max-width: 991px) {
   .headband {
@@ -1191,6 +1191,7 @@ pre code {
 .site-meta {
   flex-grow: 1;
   text-align: center;
+  letter-spacing: 5px;
 }
 @media (max-width: 767px) {
   .site-meta {
@@ -1215,8 +1216,8 @@ pre code {
   color: var(--brand-hover-color);
 }
 .site-title {
-  font-family: Noto Sans TC, Noto Sans TC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
-  font-size: 1.375em;
+  font-family: Zhi Mang Xing, Noto Sans TC, 'Microsoft JhengHei', sans-serif;
+  font-size: 2em;
   font-weight: normal;
   margin: 0;
 }
@@ -1834,7 +1835,7 @@ pre code {
   width: 4px;
 }
 .post-body {
-  font-family: Noto Sans TC, Noto Sans TC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Noto Sans TC, Noto Sans TC, 'Microsoft JhengHei', sans-serif;
   overflow-wrap: break-word;
 }
 @media (min-width: 1200px) {
@@ -2036,7 +2037,7 @@ pre code {
 }
 .posts-expand .post-meta-container {
   color: #999;
-  font-family: Noto Sans TC, Noto Sans TC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Noto Sans TC, Noto Sans TC, 'Microsoft JhengHei', sans-serif;
   font-size: 0.75em;
   margin-top: 3px;
 }
@@ -2599,7 +2600,7 @@ mark.search-keyword {
   }
 }
 .site-brand-container {
-  background: #222;
+  background: #696969;
 }
 @media (max-width: 991px) {
   .site-nav-on .site-brand-container {

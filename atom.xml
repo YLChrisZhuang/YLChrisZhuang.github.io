@@ -168,9 +168,9 @@
     
     <category term="書評" scheme="https://fragment-exchange.com/categories/%E6%9B%B8%E8%A9%95/"/>
     
-    <category term="科學" scheme="https://fragment-exchange.com/categories/%E6%9B%B8%E8%A9%95/%E7%A7%91%E5%AD%B8/"/>
-    
     <category term="哲學" scheme="https://fragment-exchange.com/categories/%E6%9B%B8%E8%A9%95/%E5%93%B2%E5%AD%B8/"/>
+    
+    <category term="科學" scheme="https://fragment-exchange.com/categories/%E6%9B%B8%E8%A9%95/%E7%A7%91%E5%AD%B8/"/>
     
     
     <category term="大腦科學" scheme="https://fragment-exchange.com/tags/%E5%A4%A7%E8%85%A6%E7%A7%91%E5%AD%B8/"/>
@@ -199,9 +199,9 @@
     <category term="日記" scheme="https://fragment-exchange.com/categories/%E5%96%83%E5%96%83%E8%87%AA%E8%AA%9E/%E6%97%A5%E8%A8%98/"/>
     
     
-    <category term="diary" scheme="https://fragment-exchange.com/tags/diary/"/>
-    
     <category term="cat" scheme="https://fragment-exchange.com/tags/cat/"/>
+    
+    <category term="diary" scheme="https://fragment-exchange.com/tags/diary/"/>
     
   </entry>
   
@@ -222,9 +222,9 @@
     <category term="日記" scheme="https://fragment-exchange.com/categories/%E5%96%83%E5%96%83%E8%87%AA%E8%AA%9E/%E6%97%A5%E8%A8%98/"/>
     
     
-    <category term="rookie" scheme="https://fragment-exchange.com/tags/rookie/"/>
-    
     <category term="diary" scheme="https://fragment-exchange.com/tags/diary/"/>
+    
+    <category term="rookie" scheme="https://fragment-exchange.com/tags/rookie/"/>
     
   </entry>
   
