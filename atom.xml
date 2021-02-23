@@ -199,9 +199,9 @@
     <category term="日記" scheme="https://fragment-exchange.com/categories/%E5%96%83%E5%96%83%E8%87%AA%E8%AA%9E/%E6%97%A5%E8%A8%98/"/>
     
     
-    <category term="diary" scheme="https://fragment-exchange.com/tags/diary/"/>
-    
     <category term="cat" scheme="https://fragment-exchange.com/tags/cat/"/>
+    
+    <category term="diary" scheme="https://fragment-exchange.com/tags/diary/"/>
     
   </entry>
   
@@ -222,9 +222,9 @@
     <category term="日記" scheme="https://fragment-exchange.com/categories/%E5%96%83%E5%96%83%E8%87%AA%E8%AA%9E/%E6%97%A5%E8%A8%98/"/>
     
     
-    <category term="rookie" scheme="https://fragment-exchange.com/tags/rookie/"/>
-    
     <category term="diary" scheme="https://fragment-exchange.com/tags/diary/"/>
+    
+    <category term="rookie" scheme="https://fragment-exchange.com/tags/rookie/"/>
     
   </entry>
   
