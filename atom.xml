@@ -6,7 +6,7 @@
   <link href="https://fragment-exchange.com/atom.xml" rel="self"/>
   
   <link href="https://fragment-exchange.com/"/>
-  <updated>2021-02-24T08:32:44.630Z</updated>
+  <updated>2021-02-28T06:27:33.405Z</updated>
   <id>https://fragment-exchange.com/</id>
   
   <author>
@@ -21,10 +21,14 @@
     <link href="https://fragment-exchange.com/digimon-adventure-last-evolution-kizuna/"/>
     <id>https://fragment-exchange.com/digimon-adventure-last-evolution-kizuna/</id>
     <published>2021-02-23T12:24:14.000Z</published>
-    <updated>2021-02-24T08:32:44.630Z</updated>
+    <updated>2021-02-28T06:27:33.405Z</updated>
     
     
-    <summary type="html">&lt;img src=&quot;https://images.animageplus.jp/articles/28000/28467/ORG/4f847320dc86f97fba8ccdadeaf1302d.jpg&quot; alt=&quot;image&quot; title=&quot;圖片來源：アニメージュ (Animage)&quot; width=&quot;300px&quot; style=&quot;border:1px lightgray solid&quot;/&gt;</summary>
+    <summary type="html">&lt;p&gt;&lt;img data-src=&quot;https://images.animageplus.jp/articles/28000/28467/ORG/4f847320dc86f97fba8ccdadeaf1302d.jpg&quot; 
+alt=&quot;image&quot; 
+title=&quot;圖片來源：アニメージュ (Animage)&quot; 
+width=&quot;300px&quot; height=&quot;auto&quot;
+style=&quot;border:1px lightgray solid&quot;/&gt;&lt;/p&gt;</summary>
     
     
     
@@ -223,9 +227,9 @@
     
     <category term="書評" scheme="https://fragment-exchange.com/categories/%E6%9B%B8%E8%A9%95/"/>
     
-    <category term="科學" scheme="https://fragment-exchange.com/categories/%E6%9B%B8%E8%A9%95/%E7%A7%91%E5%AD%B8/"/>
-    
     <category term="哲學" scheme="https://fragment-exchange.com/categories/%E6%9B%B8%E8%A9%95/%E5%93%B2%E5%AD%B8/"/>
+    
+    <category term="科學" scheme="https://fragment-exchange.com/categories/%E6%9B%B8%E8%A9%95/%E7%A7%91%E5%AD%B8/"/>
     
     
     <category term="大腦科學" scheme="https://fragment-exchange.com/tags/%E5%A4%A7%E8%85%A6%E7%A7%91%E5%AD%B8/"/>

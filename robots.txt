@@ -9,7 +9,6 @@ Allow: /css/
 
 Disallow: /vendors/
 Disallow: /fonts/
-Disallow: /vendors/
 Disallow: /fancybox/
 
 Sitemap: https://fragment-exchange.com/sitemap.xml
