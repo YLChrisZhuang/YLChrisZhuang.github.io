@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>公告</title>
-    <url>/%E5%85%AC%E5%91%8A/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h3 style="margin: -20px 0; padding: 0">公告：置頂測試</h3>
-
-]]></content>
-  </entry>
-  <entry>
     <title>《數碼寶貝 Last Evolution 絆》你決定好明天要做什麼了嗎？</title>
     <url>//digimon-adventure-last-evolution-kizuna/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p><img data-src="https://images.animageplus.jp/articles/28000/28467/ORG/4f847320dc86f97fba8ccdadeaf1302d.jpg" 
@@ -315,8 +308,8 @@ style="border:1px lightgray solid"/></p>
 ]]></content>
       <categories>
         <category>書評</category>
-        <category>哲學</category>
         <category>科學</category>
+        <category>哲學</category>
       </categories>
       <tags>
         <tag>大腦科學</tag>
