@@ -123,6 +123,20 @@
   </url>
   
   <url>
+    <loc>https://fragment-exchange.com/tags/%E8%85%A6%E7%A5%9E%E7%B6%93%E7%A7%91%E5%AD%B8/</loc>
+    <lastmod>2021-03-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fragment-exchange.com/tags/%E9%9B%BB%E8%BB%8A%E5%9B%B0%E5%A2%83/</loc>
+    <lastmod>2021-03-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://fragment-exchange.com/tags/cat/</loc>
     <lastmod>2021-03-13</lastmod>
     <changefreq>daily</changefreq>
@@ -172,20 +186,6 @@
   </url>
   
   <url>
-    <loc>https://fragment-exchange.com/tags/%E8%85%A6%E7%A5%9E%E7%B6%93%E7%A7%91%E5%AD%B8/</loc>
-    <lastmod>2021-03-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://fragment-exchange.com/tags/%E9%9B%BB%E8%BB%8A%E5%9B%B0%E5%A2%83/</loc>
-    <lastmod>2021-03-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://fragment-exchange.com/tags/%E5%93%B2%E5%AD%B8%E5%85%A5%E9%96%80/</loc>
     <lastmod>2021-03-13</lastmod>
     <changefreq>daily</changefreq>
@@ -208,20 +208,6 @@
   
   <url>
     <loc>https://fragment-exchange.com/tags/%E5%89%B5%E4%BD%9C/</loc>
-    <lastmod>2021-03-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://fragment-exchange.com/tags/%E6%80%A7%EF%BC%8F%E5%88%A5%E6%9A%B4%E5%8A%9B/</loc>
-    <lastmod>2021-03-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://fragment-exchange.com/tags/%E7%AF%87%E7%AB%A0%E5%88%86%E6%9E%90/</loc>
     <lastmod>2021-03-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -269,6 +255,20 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://fragment-exchange.com/tags/%E6%80%A7%EF%BC%8F%E5%88%A5%E6%9A%B4%E5%8A%9B/</loc>
+    <lastmod>2021-03-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fragment-exchange.com/tags/%E7%AF%87%E7%AB%A0%E5%88%86%E6%9E%90/</loc>
+    <lastmod>2021-03-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
@@ -293,7 +293,7 @@
   </url>
   
   <url>
-    <loc>https://fragment-exchange.com/categories/%E5%96%83%E5%96%83%E8%87%AA%E8%AA%9E/%E5%81%B6%E8%80%8C%E5%AF%AB%E8%A9%A9/</loc>
+    <loc>https://fragment-exchange.com/categories/%E6%9B%B8%E8%A9%95/%E5%93%B2%E5%AD%B8/</loc>
     <lastmod>2021-03-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -307,7 +307,7 @@
   </url>
   
   <url>
-    <loc>https://fragment-exchange.com/categories/%E6%9B%B8%E8%A9%95/%E5%B0%8F%E8%AA%AA/</loc>
+    <loc>https://fragment-exchange.com/categories/%E5%96%83%E5%96%83%E8%87%AA%E8%AA%9E/%E5%81%B6%E8%80%8C%E5%AF%AB%E8%A9%A9/</loc>
     <lastmod>2021-03-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -328,7 +328,7 @@
   </url>
   
   <url>
-    <loc>https://fragment-exchange.com/categories/%E6%9B%B8%E8%A9%95/%E5%93%B2%E5%AD%B8/</loc>
+    <loc>https://fragment-exchange.com/categories/%E6%9B%B8%E8%A9%95/%E5%B0%8F%E8%AA%AA/</loc>
     <lastmod>2021-03-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
