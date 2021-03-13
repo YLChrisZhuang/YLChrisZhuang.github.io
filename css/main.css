@@ -905,13 +905,13 @@ pre code {
   border-bottom-color: transparent;
   border-left-color: #ddd;
   border-right-color: #ddd;
-  border-top-color: #fc6423;
+  border-top-color: #007979;
 }
 @media (max-width: 413px) {
   .post-body .tabs ul.nav-tabs li.tab.active,
   .tabs-comment ul.nav-tabs li.tab.active {
     border-bottom-color: #ddd;
-    border-left-color: #fc6423;
+    border-left-color: #007979;
     border-right-color: #ddd;
     border-top-color: #ddd;
   }
@@ -1155,7 +1155,7 @@ pre code {
 }
 .headband {
   background: #696969;
-  height: 5px;
+  height: 3px;
 }
 @media (max-width: 991px) {
   .headband {
@@ -1176,7 +1176,7 @@ pre code {
 }
 @media (min-width: 1600px) {
   .header-inner {
-    width: 75%;
+    width: 73%;
   }
 }
 .site-brand-container {
@@ -1358,9 +1358,9 @@ pre code {
   margin-top: 15px;
 }
 .sidebar .sidebar-button a {
-  border: 1px solid #fc6423;
+  border: 1px solid #007979;
   border-radius: 4px;
-  color: #fc6423;
+  color: #007979;
   display: inline-block;
   padding: 0 15px;
 }
@@ -1371,8 +1371,8 @@ pre code {
   margin-right: 5px;
 }
 .sidebar .sidebar-button a:hover {
-  background: #fc6423;
-  border: 1px solid #fc6423;
+  background: #007979;
+  border: 1px solid #007979;
   color: #fff;
 }
 .sidebar .sidebar-button a:hover .fa,
@@ -1436,7 +1436,7 @@ pre code {
   margin-left: 10px;
 }
 .sidebar-nav li:hover {
-  color: #fc6423;
+  color: #007979;
 }
 .sidebar-toc-active .sidebar-nav-toc,
 .sidebar-overview-active .sidebar-nav-overview {
@@ -1585,7 +1585,7 @@ pre code {
 }
 @media (min-width: 1600px) {
   .footer-inner {
-    width: 75%;
+    width: 73%;
   }
 }
 .use-motion .footer {
@@ -1611,7 +1611,6 @@ pre code {
   color: #007979;
   display: inline-block;
   margin: 0 5px;
-  animation: icon-animate 1.33s ease-in-out infinite;
 }
 @-moz-keyframes icon-animate {
   0%, 100% {
@@ -1954,8 +1953,7 @@ pre code {
   height: 0;
   margin-bottom: 20px;
   overflow: hidden;
-  padding-top: 30px;
-  padding-bottom: 56.25%;
+  padding-top: 75%;
   position: relative;
   width: 100%;
 }
@@ -1963,11 +1961,11 @@ pre code {
 .post-body .video-container object,
 .post-body .video-container embed {
   height: 100%;
-  width: 100%;
   left: 0;
   margin: 0;
   position: absolute;
   top: 0;
+  width: 100%;
 }
 .post-gallery {
   display: flex;
@@ -1997,7 +1995,7 @@ pre code {
 }
 .posts-expand .post-header {
   font-size: 1.125em;
-  margin-bottom: 25px;
+  margin-bottom: 60px;
   text-align: center;
 }
 .posts-expand .post-title {
@@ -2114,7 +2112,7 @@ pre code {
 }
 .post-tags {
   margin-top: 40px;
-  text-align: left;
+  text-align: center;
 }
 .post-tags a {
   display: inline-block;
@@ -2569,7 +2567,7 @@ mark.search-keyword {
 }
 @media (min-width: 1600px) {
   .main {
-    width: 75%;
+    width: 73%;
   }
 }
 @media (max-width: 991px) {
@@ -2726,19 +2724,19 @@ mark.search-keyword {
 }
 .sidebar .sidebar-button a {
   border: 0;
-  color: #fc6423;
+  color: #007979;
   display: block;
 }
 .sidebar .sidebar-button a:hover {
   background: none;
   border: 0;
-  color: #e34603;
+  color: #006161;
 }
 .sidebar .sidebar-button a:hover .fa,
 .sidebar .sidebar-button a:hover .fab,
 .sidebar .sidebar-button a:hover .far,
 .sidebar .sidebar-button a:hover .fas {
-  color: #e34603;
+  color: #006161;
 }
 .links-of-author {
   display: flex;
@@ -2853,4 +2851,50 @@ mark.search-keyword {
   .comments {
     padding: 10px 12px;
   }
+}
+.link-preview .link-area {
+  overflow: hidden;
+  position: relative;
+  margin: 1em 0 1em 0;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #f0f0f0;
+}
+.link-preview .descriptions {
+  overflow: hidden;
+}
+.link-preview .og-title {
+  overflow: hidden;
+  font-size: 1em;
+  font-weight: bold;
+}
+.link-preview .og-description {
+  display: none;
+  font-size: 0.86em;
+  margin-top: 0.2em;
+}
+.link-preview .og-image {
+  overflow: hidden;
+  float: left;
+  margin-right: 10px;
+}
+.link-preview .og-image img {
+  border: 1px #d0d0d0 solid;
+  max-width: 125px;
+  margin-bottom: 0px;
+}
+.posts-expand .post-header {
+  font-size: 1.125em;
+  margin-bottom: 25px;
+  text-align: center;
+}
+blockquote {
+  border-left: 4px solid #007979;
+  color: var(--blockquote-color);
+  margin: 0 0 0 16px;
+  padding: 0 0 0 16px;
+}
+blockquote cite::before {
+  content: '-';
+  padding: 0 5px;
 }
