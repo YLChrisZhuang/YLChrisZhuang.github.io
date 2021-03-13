@@ -2898,3 +2898,14 @@ blockquote cite::before {
   content: '-';
   padding: 0 5px;
 }
+.post-tags {
+  margin-top: 40px;
+  text-align: left;
+}
+.post-tags a {
+  display: inline-block;
+  font-size: 0.8125em;
+}
+.post-tags a:not(:last-child) {
+  margin-right: 10px;
+}
