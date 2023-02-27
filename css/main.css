@@ -2799,22 +2799,43 @@ mark.search-keyword {
 .back-to-top {
   font-size: 1em;
   align-items: center;
-  color: #fff;
+  color: #316c6c;
   display: flex;
   height: 50px;
   width: 50px;
   border-radius: 50%;
   transition: bottom 0.2s ease-in-out;
-  background: #007979;
+  background: #eae9db;
   cursor: pointer;
   opacity: 0.6;
   position: fixed;
   z-index: 30;
   right: 1%;
 }
+.back-to-top:hover {
+  background: #316c6c;
+  color: #eae9db;
+}
 .back-to-top .fa {
   text-align: center;
   width: 100%;
+}
+.pagination {
+  border: none !important;
+  background: none !important;
+  box-shadow: none !important;
+}
+.pagination .prev,
+.pagination .next,
+.pagination .page-number {
+  border: none;
+  border-radius: 50%;
+}
+.pagination .prev:hover,
+.pagination .next:hover,
+.pagination .page-number:hover {
+  color: #eae9db;
+  background: #316c6c;
 }
 .posts-expand .post-header {
   font-size: 1.125em;
@@ -2857,31 +2878,24 @@ mark.search-keyword {
   box-shadow: inset 0 0 2px rgba(0,0,0,0.2);
   background: transparent;
 }
-/*blockquote {
-  border-left: 4px solid $olive;
+blockquote {
+  border-left: 4px solid #316c6c;
   color: var(--blockquote-color);
   margin: 0 0 0 16px;
   padding: 0 0 0 16px;
-
-  cite::before {
-    content: '-';
-    padding: 0 5px;
-  }
 }
-*/
-/* 菜單圓點顏色
-// --------------------------------------------------
-if (not hexo-config('menu_settings.badges')) {
-  .main-menu .menu-item-active::after {
-    background: $olive-light;
-    border-radius: 50%;
-    content: ' ';
-    height: 6px;
-    margin-top: -3px;
-    position: absolute;
-    right: 15px;
-    top: 50%;
-    width: 6px;
-  }
+blockquote cite::before {
+  content: '-';
+  padding: 0 5px;
 }
-*/
+.main-menu .menu-item-active::after {
+  background: #124c33;
+  border-radius: 50%;
+  content: ' ';
+  height: 10px;
+  margin-top: -3px;
+  position: absolute;
+  right: 15px;
+  top: 50%;
+  width: 10px;
+}
