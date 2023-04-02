@@ -226,9 +226,9 @@
     
     <category term="書評" scheme="https://fragment-exchange.com/comment/books/"/>
     
-    <category term="科學" scheme="https://fragment-exchange.com/comment/books/%E7%A7%91%E5%AD%B8/"/>
-    
     <category term="哲學" scheme="https://fragment-exchange.com/comment/books/%E5%93%B2%E5%AD%B8/"/>
+    
+    <category term="科學" scheme="https://fragment-exchange.com/comment/books/%E7%A7%91%E5%AD%B8/"/>
     
     
     <category term="神經科學" scheme="https://fragment-exchange.com/tags/%E7%A5%9E%E7%B6%93%E7%A7%91%E5%AD%B8/"/>

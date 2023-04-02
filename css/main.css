@@ -2948,7 +2948,7 @@ mark.search-keyword {
   background: transparent;
 }
 blockquote {
-  border-left: 4px solid #316c6c;
+  border-left: 4px solid #124c33;
   color: var(--blockquote-color);
   margin: 0 0 0 16px;
   padding: 0 0 0 16px;
@@ -2972,4 +2972,7 @@ blockquote cite::before {
   height: calc(2em + 20px);
   pointer-events: unset;
   visibility: unset;
+}
+.main-inner .post-block {
+  margin-bottom: 1%;
 }
