@@ -226,18 +226,18 @@
     
     <category term="書評" scheme="https://fragment-exchange.com/comment/books/"/>
     
-    <category term="哲學" scheme="https://fragment-exchange.com/comment/books/%E5%93%B2%E5%AD%B8/"/>
-    
     <category term="科學" scheme="https://fragment-exchange.com/comment/books/%E7%A7%91%E5%AD%B8/"/>
+    
+    <category term="哲學" scheme="https://fragment-exchange.com/comment/books/%E5%93%B2%E5%AD%B8/"/>
     
     
     <category term="神經科學" scheme="https://fragment-exchange.com/tags/%E7%A5%9E%E7%B6%93%E7%A7%91%E5%AD%B8/"/>
     
-    <category term="哲學" scheme="https://fragment-exchange.com/tags/%E5%93%B2%E5%AD%B8/"/>
-    
     <category term="意識" scheme="https://fragment-exchange.com/tags/%E6%84%8F%E8%AD%98/"/>
     
     <category term="自我" scheme="https://fragment-exchange.com/tags/%E8%87%AA%E6%88%91/"/>
+    
+    <category term="哲學" scheme="https://fragment-exchange.com/tags/%E5%93%B2%E5%AD%B8/"/>
     
   </entry>
   
@@ -262,9 +262,9 @@
     
     <category term="神經科學" scheme="https://fragment-exchange.com/tags/%E7%A5%9E%E7%B6%93%E7%A7%91%E5%AD%B8/"/>
     
-    <category term="電車困境" scheme="https://fragment-exchange.com/tags/%E9%9B%BB%E8%BB%8A%E5%9B%B0%E5%A2%83/"/>
-    
     <category term="哲學" scheme="https://fragment-exchange.com/tags/%E5%93%B2%E5%AD%B8/"/>
+    
+    <category term="電車困境" scheme="https://fragment-exchange.com/tags/%E9%9B%BB%E8%BB%8A%E5%9B%B0%E5%A2%83/"/>
     
   </entry>
   
