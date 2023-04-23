@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://fragment-exchange.com/photos/</loc>
+    <loc>https://fragment-exchange.com/2019/piece061500/</loc>
     
     <lastmod>2023-04-23</lastmod>
     
@@ -11,7 +11,34 @@
   </url>
   
   <url>
-    <loc>https://fragment-exchange.com/2016/piece040900/</loc>
+    <loc>https://fragment-exchange.com/2019/piece060821/</loc>
+    
+    <lastmod>2023-04-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fragment-exchange.com/2019/piece031109/</loc>
+    
+    <lastmod>2023-04-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fragment-exchange.com/recording/</loc>
+    
+    <lastmod>2023-04-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fragment-exchange.com/photos/</loc>
     
     <lastmod>2023-04-23</lastmod>
     
@@ -29,63 +56,9 @@
   </url>
   
   <url>
-    <loc>https://fragment-exchange.com/recording/</loc>
-    
-    <lastmod>2023-03-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://fragment-exchange.com/2019/piece060821/</loc>
-    
-    <lastmod>2023-02-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://fragment-exchange.com/2019/piece061500/</loc>
-    
-    <lastmod>2023-02-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://fragment-exchange.com/2019/piece072500/</loc>
-    
-    <lastmod>2023-02-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://fragment-exchange.com/2019/piece032209/</loc>
-    
-    <lastmod>2023-02-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://fragment-exchange.com/2019/piece031109/</loc>
-    
-    <lastmod>2023-02-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://fragment-exchange.com/2019/piece012509/</loc>
     
-    <lastmod>2023-02-27</lastmod>
+    <lastmod>2023-04-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -94,7 +67,7 @@
   <url>
     <loc>https://fragment-exchange.com/2018/piece122509/</loc>
     
-    <lastmod>2023-02-27</lastmod>
+    <lastmod>2023-04-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -102,6 +75,33 @@
   
   <url>
     <loc>https://fragment-exchange.com/2018/piece122500/</loc>
+    
+    <lastmod>2023-04-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fragment-exchange.com/2016/piece040900/</loc>
+    
+    <lastmod>2023-04-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fragment-exchange.com/2019/piece072500/</loc>
+    
+    <lastmod>2023-04-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fragment-exchange.com/2019/piece032209/</loc>
     
     <lastmod>2023-02-27</lastmod>
     
@@ -164,6 +164,27 @@
 
   
   <url>
+    <loc>https://fragment-exchange.com/tags/%E7%A5%9E%E7%B6%93%E7%A7%91%E5%AD%B8/</loc>
+    <lastmod>2023-04-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://fragment-exchange.com/tags/%E9%9B%BB%E8%BB%8A%E5%9B%B0%E5%A2%83/</loc>
+    <lastmod>2023-04-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://fragment-exchange.com/tags/%E5%93%B2%E5%AD%B8/</loc>
+    <lastmod>2023-04-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://fragment-exchange.com/tags/%E8%BB%8D%E6%97%85/</loc>
     <lastmod>2023-04-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -206,41 +227,6 @@
   </url>
   
   <url>
-    <loc>https://fragment-exchange.com/tags/%E7%A5%9E%E7%B6%93%E7%A7%91%E5%AD%B8/</loc>
-    <lastmod>2023-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://fragment-exchange.com/tags/%E6%84%8F%E8%AD%98/</loc>
-    <lastmod>2023-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://fragment-exchange.com/tags/%E8%87%AA%E6%88%91/</loc>
-    <lastmod>2023-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://fragment-exchange.com/tags/%E5%93%B2%E5%AD%B8/</loc>
-    <lastmod>2023-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://fragment-exchange.com/tags/%E9%9B%BB%E8%BB%8A%E5%9B%B0%E5%A2%83/</loc>
-    <lastmod>2023-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://fragment-exchange.com/tags/%E5%AE%B6%E5%BA%AD%E6%95%99%E8%82%B2/</loc>
     <lastmod>2023-04-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -256,6 +242,20 @@
   
   <url>
     <loc>https://fragment-exchange.com/tags/%E5%AE%B6%E5%BA%AD%E7%B5%90%E6%A7%8B/</loc>
+    <lastmod>2023-04-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://fragment-exchange.com/tags/%E6%84%8F%E8%AD%98/</loc>
+    <lastmod>2023-04-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://fragment-exchange.com/tags/%E8%87%AA%E6%88%91/</loc>
     <lastmod>2023-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -355,6 +355,13 @@
 
   
   <url>
+    <loc>https://fragment-exchange.com/comment/</loc>
+    <lastmod>2023-04-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://fragment-exchange.com/murmur/</loc>
     <lastmod>2023-04-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -362,7 +369,7 @@
   </url>
   
   <url>
-    <loc>https://fragment-exchange.com/comment/</loc>
+    <loc>https://fragment-exchange.com/comment/books/</loc>
     <lastmod>2023-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -383,7 +390,7 @@
   </url>
   
   <url>
-    <loc>https://fragment-exchange.com/comment/books/</loc>
+    <loc>https://fragment-exchange.com/comment/books/%E5%B0%8F%E8%AA%AA/</loc>
     <lastmod>2023-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -397,21 +404,14 @@
   </url>
   
   <url>
-    <loc>https://fragment-exchange.com/comment/books/%E6%95%A3%E6%96%87/</loc>
-    <lastmod>2023-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://fragment-exchange.com/comment/books/%E5%B0%8F%E8%AA%AA/</loc>
-    <lastmod>2023-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://fragment-exchange.com/comment/books/%E5%93%B2%E5%AD%B8/</loc>
+    <lastmod>2023-04-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://fragment-exchange.com/comment/books/%E6%95%A3%E6%96%87/</loc>
     <lastmod>2023-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

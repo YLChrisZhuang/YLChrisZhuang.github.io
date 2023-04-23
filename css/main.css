@@ -2901,12 +2901,19 @@ header.header {
 blockquote {
   border-left: 4px solid #006363;
   color: var(--blockquote-color);
+  background-color: #505050;
+/* Light gray background */
   margin: 0 0 0 16px;
-  padding: 0 0 0 16px;
+  padding: 0 16px;
 }
 blockquote cite::before {
-  content: '-';
-  padding: 0 5px;
+  content: '－';
+}
+blockquote cite {
+  display: block;
+  font-style: normal;
+  font-weight: bold;
+  text-align: right;
 }
 .main-menu .menu-item-active::after {
   background: #006363;
@@ -2924,7 +2931,7 @@ blockquote cite::before {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  justify-content: center;
+  justify-content: left;
 }
 .photo-gallery a {
   max-width: 100%;
