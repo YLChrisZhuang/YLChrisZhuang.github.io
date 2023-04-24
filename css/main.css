@@ -2775,8 +2775,8 @@ header.header {
   border-bottom-color: #49a2a2;
   color: #49a2a2;
 }
-.sidebar-nav-active .sidebar-nav {
-  height: calc(2em + 25px);
+.sidebar-nav {
+  overflow: visible;
 }
 .sidebar-nav-active .sidebar-panel-container {
   padding-top: 0px;
