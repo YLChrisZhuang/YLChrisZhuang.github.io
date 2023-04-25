@@ -2777,6 +2777,7 @@ header.header {
 }
 .sidebar-nav {
   overflow: visible;
+  margin: 0 0 10px 0;
 }
 .sidebar-nav-active .sidebar-panel-container {
   padding-top: 0px;
@@ -2788,7 +2789,7 @@ header.header {
 .link-preview .link-area {
   overflow: hidden;
   position: relative;
-  margin: 1em 0 1em 0;
+  margin: 1em 0 1em 1em;
   padding: 10px;
   border-radius: 10px;
   background-color: #414141;
