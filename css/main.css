@@ -2927,6 +2927,14 @@ blockquote cite {
   top: 50%;
   width: 10px;
 }
+.post-body img {
+  max-width: 50%;
+}
+@media (max-width: 768px) {
+  .post-body img {
+    max-width: 100%;
+  }
+}
 .photo-gallery {
   display: flex;
   display: flex;
