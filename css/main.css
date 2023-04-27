@@ -2962,7 +2962,7 @@ blockquote cite {
     border-bottom: none;
   }
   .photo-gallery img {
-    width: 100%;
+    max-width: 100%;
     margin-bottom: 0px;
     border-radius: 3%;
     object-fit: cover;
