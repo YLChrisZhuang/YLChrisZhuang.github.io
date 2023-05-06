@@ -6,7 +6,7 @@
   <link href="https://fragment-exchange.com/atom.xml" rel="self"/>
   
   <link href="https://fragment-exchange.com/"/>
-  <updated>2023-05-04T23:56:39.669Z</updated>
+  <updated>2023-05-06T07:07:47.730Z</updated>
   <id>https://fragment-exchange.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://fragment-exchange.com/2023/piece050321/"/>
     <id>https://fragment-exchange.com/2023/piece050321/</id>
     <published>2023-05-03T13:00:00.000Z</published>
-    <updated>2023-05-04T23:56:39.669Z</updated>
+    <updated>2023-05-06T07:07:47.730Z</updated>
     
     
       
@@ -437,6 +437,31 @@
     <category term="納茲" scheme="https://fragment-exchange.com/tags/%E7%B4%8D%E8%8C%B2/"/>
     
     <category term="cat" scheme="https://fragment-exchange.com/tags/cat/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>碎片－2015</title>
+    <link href="https://fragment-exchange.com/2015/piece123110/"/>
+    <id>https://fragment-exchange.com/2015/piece123110/</id>
+    <published>2015-12-31T02:05:19.000Z</published>
+    <updated>2023-05-06T07:07:17.776Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;數著日子，活成一首枯燥的詩。&lt;/strong&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="閒言" scheme="https://fragment-exchange.com/murmur/"/>
+    
+    <category term="日記" scheme="https://fragment-exchange.com/murmur/%E6%97%A5%E8%A8%98/"/>
+    
+    
+    <category term="日記" scheme="https://fragment-exchange.com/tags/%E6%97%A5%E8%A8%98/"/>
+    
+    <category term="生活" scheme="https://fragment-exchange.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="隨筆" scheme="https://fragment-exchange.com/tags/%E9%9A%A8%E7%AD%86/"/>
     
   </entry>
   
