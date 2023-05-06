@@ -2826,7 +2826,7 @@ header.header {
   width: 50px;
   border-radius: 50%;
   transition: bottom 0.2s ease-in-out;
-  background: #eae9db;
+  background: var(--text-color);
   cursor: pointer;
   opacity: 0.6;
   position: fixed;
@@ -2902,7 +2902,7 @@ header.header {
 blockquote {
   border-left: 4px solid #006363;
   color: var(--blockquote-color);
-  background-color: #505050;
+  background-color: var(--body-bg-color);
 /* Light gray background */
   margin: 0 0 0 16px;
   padding: 0 16px;
