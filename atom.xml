@@ -6,7 +6,7 @@
   <link href="https://fragment-exchange.com/atom.xml" rel="self"/>
   
   <link href="https://fragment-exchange.com/"/>
-  <updated>2023-05-06T07:07:47.730Z</updated>
+  <updated>2023-05-07T02:38:47.826Z</updated>
   <id>https://fragment-exchange.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://fragment-exchange.com/2023/piece050321/"/>
     <id>https://fragment-exchange.com/2023/piece050321/</id>
     <published>2023-05-03T13:00:00.000Z</published>
-    <updated>2023-05-06T07:07:47.730Z</updated>
+    <updated>2023-05-07T02:38:47.826Z</updated>
     
     
       
@@ -328,11 +328,11 @@
     
     <category term="神經科學" scheme="https://fragment-exchange.com/tags/%E7%A5%9E%E7%B6%93%E7%A7%91%E5%AD%B8/"/>
     
-    <category term="哲學" scheme="https://fragment-exchange.com/tags/%E5%93%B2%E5%AD%B8/"/>
-    
     <category term="意識" scheme="https://fragment-exchange.com/tags/%E6%84%8F%E8%AD%98/"/>
     
     <category term="自我" scheme="https://fragment-exchange.com/tags/%E8%87%AA%E6%88%91/"/>
+    
+    <category term="哲學" scheme="https://fragment-exchange.com/tags/%E5%93%B2%E5%AD%B8/"/>
     
   </entry>
   
@@ -357,9 +357,9 @@
     
     <category term="神經科學" scheme="https://fragment-exchange.com/tags/%E7%A5%9E%E7%B6%93%E7%A7%91%E5%AD%B8/"/>
     
-    <category term="電車困境" scheme="https://fragment-exchange.com/tags/%E9%9B%BB%E8%BB%8A%E5%9B%B0%E5%A2%83/"/>
-    
     <category term="哲學" scheme="https://fragment-exchange.com/tags/%E5%93%B2%E5%AD%B8/"/>
+    
+    <category term="電車困境" scheme="https://fragment-exchange.com/tags/%E9%9B%BB%E8%BB%8A%E5%9B%B0%E5%A2%83/"/>
     
   </entry>
   
@@ -393,7 +393,7 @@
     <link href="https://fragment-exchange.com/2016/piece123118/"/>
     <id>https://fragment-exchange.com/2016/piece123118/</id>
     <published>2016-12-31T10:23:48.000Z</published>
-    <updated>2023-05-04T23:56:31.465Z</updated>
+    <updated>2023-05-07T01:22:49.825Z</updated>
     
     
     <summary type="html">&lt;p&gt;「人的界限值得用一輩子去練習。」&lt;/p&gt;</summary>
@@ -445,10 +445,35 @@
     <link href="https://fragment-exchange.com/2015/piece123110/"/>
     <id>https://fragment-exchange.com/2015/piece123110/</id>
     <published>2015-12-31T02:05:19.000Z</published>
-    <updated>2023-05-06T07:07:17.776Z</updated>
+    <updated>2023-05-07T01:22:02.786Z</updated>
     
     
     <summary type="html">&lt;p&gt;&lt;strong&gt;數著日子，活成一首枯燥的詩。&lt;/strong&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="閒言" scheme="https://fragment-exchange.com/murmur/"/>
+    
+    <category term="日記" scheme="https://fragment-exchange.com/murmur/%E6%97%A5%E8%A8%98/"/>
+    
+    
+    <category term="日記" scheme="https://fragment-exchange.com/tags/%E6%97%A5%E8%A8%98/"/>
+    
+    <category term="生活" scheme="https://fragment-exchange.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="隨筆" scheme="https://fragment-exchange.com/tags/%E9%9A%A8%E7%AD%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>碎片－2014</title>
+    <link href="https://fragment-exchange.com/2014/piece123119/"/>
+    <id>https://fragment-exchange.com/2014/piece123119/</id>
+    <published>2014-12-31T11:15:26.000Z</published>
+    <updated>2023-05-07T02:38:37.079Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;若是以為只有自己也能活下去，就同時喪失柔軟的心。&lt;/strong&gt;&lt;/p&gt;</summary>
     
     
     
@@ -486,7 +511,7 @@
     
     <category term="新兵" scheme="https://fragment-exchange.com/tags/%E6%96%B0%E5%85%B5/"/>
     
-    <category term="gap year" scheme="https://fragment-exchange.com/tags/gap-year/"/>
+    <category term="日記" scheme="https://fragment-exchange.com/tags/%E6%97%A5%E8%A8%98/"/>
     
   </entry>
   
