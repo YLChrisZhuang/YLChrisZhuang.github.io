@@ -4,7 +4,16 @@
   <url>
     <loc>https://fragment-exchange.com/2023/piece050321/</loc>
     
-    <lastmod>2023-05-07</lastmod>
+    <lastmod>2023-05-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fragment-exchange.com/2013/piece123113/</loc>
+    
+    <lastmod>2023-05-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -292,7 +301,14 @@
   </url>
   
   <url>
-    <loc>https://fragment-exchange.com/tags/%E9%9B%BB%E8%BB%8A%E5%9B%B0%E5%A2%83/</loc>
+    <loc>https://fragment-exchange.com/tags/%E6%84%8F%E8%AD%98/</loc>
+    <lastmod>2023-05-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://fragment-exchange.com/tags/%E8%87%AA%E6%88%91/</loc>
     <lastmod>2023-05-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -300,6 +316,13 @@
   
   <url>
     <loc>https://fragment-exchange.com/tags/%E5%93%B2%E5%AD%B8/</loc>
+    <lastmod>2023-05-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://fragment-exchange.com/tags/%E9%9B%BB%E8%BB%8A%E5%9B%B0%E5%A2%83/</loc>
     <lastmod>2023-05-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -321,20 +344,6 @@
   
   <url>
     <loc>https://fragment-exchange.com/tags/%E5%AE%B6%E5%BA%AD%E7%B5%90%E6%A7%8B/</loc>
-    <lastmod>2023-05-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://fragment-exchange.com/tags/%E6%84%8F%E8%AD%98/</loc>
-    <lastmod>2023-05-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://fragment-exchange.com/tags/%E8%87%AA%E6%88%91/</loc>
     <lastmod>2023-05-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
