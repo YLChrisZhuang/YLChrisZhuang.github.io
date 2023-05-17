@@ -6,7 +6,7 @@
   <link href="https://fragment-exchange.com/atom.xml" rel="self"/>
   
   <link href="https://fragment-exchange.com/"/>
-  <updated>2023-05-16T15:30:17.569Z</updated>
+  <updated>2023-05-17T16:12:10.903Z</updated>
   <id>https://fragment-exchange.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://fragment-exchange.com/2023/piece050321/"/>
     <id>https://fragment-exchange.com/2023/piece050321/</id>
     <published>2023-05-03T13:00:00.000Z</published>
-    <updated>2023-05-16T15:30:17.569Z</updated>
+    <updated>2023-05-17T16:12:10.903Z</updated>
     
     
       
@@ -507,11 +507,11 @@
     <category term="日記" scheme="https://fragment-exchange.com/murmur/%E6%97%A5%E8%A8%98/"/>
     
     
+    <category term="日記" scheme="https://fragment-exchange.com/tags/%E6%97%A5%E8%A8%98/"/>
+    
     <category term="軍旅" scheme="https://fragment-exchange.com/tags/%E8%BB%8D%E6%97%85/"/>
     
     <category term="新兵" scheme="https://fragment-exchange.com/tags/%E6%96%B0%E5%85%B5/"/>
-    
-    <category term="日記" scheme="https://fragment-exchange.com/tags/%E6%97%A5%E8%A8%98/"/>
     
   </entry>
   
